@@ -17,7 +17,7 @@ This is a Streamlit app that allows users to **upload a PDF**, extract the text,
 
 ## 📸 Screenshots
 
-<img src="assets/img.png" alt="Upload PDF" width="450"/>
+<img src="assets/img1.png" alt="Upload PDF" width="450"/>
 <img src="assets/img2.png" alt="Summary Output" width="450"/>
 <img src="assets/img3.png" alt="Translation" width="450"/>
 
