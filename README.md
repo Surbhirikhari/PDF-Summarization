@@ -25,6 +25,7 @@ This is a Streamlit app that allows users to **upload a PDF**, extract the text,
 
 ## ✨ Future Improvements
 
+* Enable extraction of text for Large pdf files in complex format
 * Add support for multilingual PDFs
 * Enable summarization in other languages
 * Add Q\&A over PDF using LLMs like LLaMA or Mistral
